@@ -1,4 +1,4 @@
-<h2 align="left">Hola 👋! Mi nombre es Anderson Cardozo  and Soy programador Backend</h2>
+<h2 align="left">Hola 👋! Mi nombre es Anderson Cardozo</h2>
 
 ###
 
