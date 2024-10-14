@@ -81,10 +81,9 @@ Skills: `Linear Regression` `Logistic Regression` `Artificial Neural Network` `D
 `Recommender Systems` `Tensorflow` `Xgboost` `Collaborative Filtering`
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C560BAQHQYa-3EY_aaQ/company-logo_200_200/0/1630633790917/university_of_california_at_san_diego_logo?e=1723680000&v=beta&t=X_5Qx4h6UBPAShe291vknG4p8tGYC79r2en8cDoLtAQ"/>](https://ucsd.edu/)
-**Data Structures and Algorithms Specialization** \
-[**University of California San Diego**](https://ucsd.edu/) • In progress \
-Skills: `Data Structure` `Algorithms` `Np-Completeness` `Dynamic Programming` `String` `Graph Algorithms` `Algorithm Design` `Software Testing` `Debugging` `Priority Queue` `BST` `Hash Table` `List` `Stack`
-`Suffix Tree` `KMP Algorithm`
+**Tecnologo en Gestion de Redes y Sistemas Telinformaticos** \
+[**INSTITUTO SUPERIOR DE EDUCACIÓN RURAL - ISER**](https://www.iser.edu.co/) • In progress \
+Skills: `Programación orientada a objetos (POO)` `Spring MVC` `Análisis de la información` `SQL` `Eclipse`  `Software Testing` `linux` `HTML` `CSS` `Backend` `Frontend`
 
 <br>
 
