@@ -74,15 +74,14 @@
 </br>
 <h2>Estudios & certificaciones</h2>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://lh3.googleusercontent.com/LPfPVvU_iUAfP4JVfbVNd5M13-Eij2_H5DQugyTREwpGJJikImB7COx7VbutFSO25gcmuA=s28"/>](https://www.stanford.edu/)
+[<img align="left" height="94px" width="250px" alt="Warpnet" src="https://estudios.unad.edu.co/images/footer/logo-unad-acreditacion-min.png"/>](https://www.unad.edu.co/)
 **Ingenieria de Sistemas** \
-[**Universidad Nacional Abierta y a Distancia**](https://www.unad.edu.co/)  • Completed May 4, 2024\
-Skills: `Linear Regression` `Logistic Regression` `Artificial Neural Network` `Decision Trees`
-`Recommender Systems` `Tensorflow` `Xgboost` `Collaborative Filtering`
+[**Universidad Nacional Abierta y a Distancia**](https://www.unad.edu.co/)  • In progress\
+Skills: `Gestion de Proyectos` `Spring Boot` `Creacion de Librerias`  `Programación orientada a objetos (POO)` `Spring MVC` `Análisis de la información` `SQL` `Eclipse`  `Software Testing` `linux` `HTML` `CSS` `Backend` `Frontend`
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C560BAQHQYa-3EY_aaQ/company-logo_200_200/0/1630633790917/university_of_california_at_san_diego_logo?e=1723680000&v=beta&t=X_5Qx4h6UBPAShe291vknG4p8tGYC79r2en8cDoLtAQ"/>](https://ucsd.edu/)
+[<img align="left" height="94px" width="250px" alt="Warpnet" src="https://www.iser.edu.co/wp-content/uploads/2024/07/cropped-LOGO-NEGRO-HORIZONTAL-01-2-2048x818.png"/>](https://www.iser.edu.co/)
 **Tecnologo en Gestion de Redes y Sistemas Telinformaticos** \
-[**INSTITUTO SUPERIOR DE EDUCACIÓN RURAL - ISER**](https://www.iser.edu.co/) • In progress \
+[**INSTITUTO SUPERIOR DE EDUCACIÓN RURAL - ISER**](https://www.iser.edu.co/)  • Completed Nov 3, 2023\
 Skills: `Programación orientada a objetos (POO)` `Spring MVC` `Análisis de la información` `SQL` `Eclipse`  `Software Testing` `linux` `HTML` `CSS` `Backend` `Frontend`
 
 <br>
