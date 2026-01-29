@@ -83,7 +83,7 @@ rápidamente a nuevas tecnologías.</b> Ademas, Tambien <b>estoy en constante ev
 [**Fundación de Educación Superior San José**](https://sitio.usanjose.edu.co/)  • Completed Dec 12, 2025\
 Skills: `Gestion de Proyectos` `Spring Boot` `Creacion de Librerias`  `Programación orientada a objetos (POO)` `Spring MVC` `Análisis de la información` `SQL` `Eclipse`  `Software Testing` `linux` `HTML` `CSS` `Backend` `Frontend`
 
-[<img align="left" height="94px" width="250px" alt="Warpnet" src="https://www.iser.edu.co/wp-content/uploads/2024/07/cropped-LOGO-NEGRO-HORIZONTAL-01-2-2048x818.png"/>](https://www.iser.edu.co/)
+[<img align="left" height="94px" width="250px" alt="Warpnet" src="https://www.iser.edu.co/index.php/nuestra-identidad-corporativa/"/>](https://www.iser.edu.co/)
 **Tecnologo en Gestion de Redes y Sistemas Telinformaticos** \
 [**INSTITUTO SUPERIOR DE EDUCACIÓN RURAL - ISER**](https://www.iser.edu.co/)  • Completed Nov 3, 2023\
 Skills: `Programación orientada a objetos (POO)` `Spring MVC` `Análisis de la información` `SQL` `Eclipse`  `Software Testing` `linux` `HTML` `CSS` `Backend` `Frontend`
