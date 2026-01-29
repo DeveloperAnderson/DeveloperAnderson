@@ -8,7 +8,11 @@
 
 
 <!-- Short Bio -->
-<p>Bienvenido a mi Perfil! </br> Soy un <b>Developer</b> y actualmente estoy desarrollando mis habilidades en aprendizaje automático y aprendizaje profundo.</b> Ademas, Tambien <b>estoy en constante evolucion </b> de Tecnologias.</p>
+<p>Bienvenido a mi Perfil! </br> Soy un <b>Developer</b> con sólida experiencia en desarrollo de aplicaciones Java y ecosistema Spring. 
+Especializado en la creación y mantenimiento de aplicaciones web empresariales con alto rendimiento y 
+escalabilidad. Comprometido con la calidad del código, las buenas prácticas de programación y el 
+aprendizaje continuo. Capacidad para trabajar en equipo, resolver problemas complejos y adaptarse 
+rápidamente a nuevas tecnologías.</b> Ademas, Tambien <b>estoy en constante evolucion </b> de Tecnologias.</p>
 
 
 <!-- Tech Stack -->
