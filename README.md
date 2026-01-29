@@ -78,9 +78,9 @@ rápidamente a nuevas tecnologías.</b> Ademas, Tambien <b>estoy en constante ev
 </br>
 <h2>Estudios & certificaciones</h2>
 
-[<img align="left" height="94px" width="250px" alt="Warpnet" src="https://estudios.unad.edu.co/images/footer/logo-unad-acreditacion-min.png"/>](https://www.unad.edu.co/)
+[<img align="left" height="94px" width="250px" alt="Warpnet" src="https://sitio.usanjose.edu.co/wp-content/uploads/2019/09/logo_web51.png"/>](https://sitio.usanjose.edu.co/)
 **Ingenieria de Sistemas** \
-[**Universidad Nacional Abierta y a Distancia**](https://www.unad.edu.co/)  • In progress\
+[**Fundación de Educación Superior San José**](https://sitio.usanjose.edu.co/)  • Completed Dec 12, 2025\
 Skills: `Gestion de Proyectos` `Spring Boot` `Creacion de Librerias`  `Programación orientada a objetos (POO)` `Spring MVC` `Análisis de la información` `SQL` `Eclipse`  `Software Testing` `linux` `HTML` `CSS` `Backend` `Frontend`
 
 [<img align="left" height="94px" width="250px" alt="Warpnet" src="https://www.iser.edu.co/wp-content/uploads/2024/07/cropped-LOGO-NEGRO-HORIZONTAL-01-2-2048x818.png"/>](https://www.iser.edu.co/)
